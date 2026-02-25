@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JASGVX010000079	JASGVX010000079_3	11436	13088	GTTTCAATCCTTGTTTTGCTGGAACCCGTTTT	23	32	41.7	90.5	44.5	0.4	True	Unknown	I-D	0.667

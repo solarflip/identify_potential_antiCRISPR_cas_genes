@@ -1,0 +1,27 @@
+input:	/u/home/praktikum/praktikum/identify_potential_antiCRISPR_cas_genes/dat/2/TACK_genomes/2202732.11.fna
+output:	/u/home/praktikum/praktikum/identify_potential_antiCRISPR_cas_genes/out/cctyper/tack/2202732.11
+threads:	4
+prodigal:	single
+circular:	False
+keep_tmp:	False
+log_lvl:	INFO
+redo_typing:	False
+simplelog:	False
+db:	/u/home/praktikum/praktikum/identify_potential_antiCRISPR_cas_genes/data
+dist:	3
+overall_eval:	0.01
+overall_cov_seq:	0.3
+overall_cov_hmm:	0.3
+ccd:	10000
+pred_prob:	0.75
+kmer:	4
+repeat_id:	70
+spacer_id:	55
+spacer_sem:	3.5
+exact_stats:	False
+seed:	42
+skip_blast:	False
+expand:	0
+custom_hmm:	
+no_plot:	False
+no_grid:	False

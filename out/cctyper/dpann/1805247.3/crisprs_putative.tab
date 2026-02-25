@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+MNVE01000009	MNVE01000009_1	101094	101330	GGTGGAGGTGAATGTTGAGTTTATGATTGA	4	30	39.0	77.6	59.4	0.0	False	Unknown	V-F1	0.672

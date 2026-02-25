@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2415" height="400" viewBox="0 -400 2415 400">
+<defs>
+</defs>
+<path d="M210,-20 L210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-330" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-330" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-330" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-330" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-330" font-size="22" fill="grey" dy="0em">5000</text>
+<path d="M1210,-20 L1210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1160" y="-330" font-size="22" fill="grey" dy="0em">6000</text>
+<path d="M1410,-20 L1410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1360" y="-330" font-size="22" fill="grey" dy="0em">7000</text>
+<path d="M1610,-20 L1610,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1560" y="-330" font-size="22" fill="grey" dy="0em">8000</text>
+<path d="M1810,-20 L1810,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1760" y="-330" font-size="22" fill="grey" dy="0em">9000</text>
+<path d="M2010,-20 L2010,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1960" y="-330" font-size="22" fill="grey" dy="0em">10000</text>
+<path d="M2210,-20 L2210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="2160" y="-330" font-size="22" fill="grey" dy="0em">11000</text>
+<path d="M2410,-20 L2410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="2360" y="-330" font-size="22" fill="grey" dy="0em">12000</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">I-A: DXJG01000004@1 (65-11640)</text>
+<path d="M140.6,-200 L292.20000000000005,-200 L322.20000000000005,-175.0 L292.20000000000005,-150 L140.6,-150 L140.6,-200 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="140.6" y="-210" font-size="20" fill="black" dy="0em">1</text>
+<path d="M323.0,-200 L500.4,-200 L530.4,-175.0 L500.4,-150 L323.0,-150 L323.0,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="323.0" y="-120" font-size="26" fill="black" dy="0em">Cas1</text>
+<path d="M530.6,-200 L556.8000000000001,-200 L586.8000000000001,-175.0 L556.8000000000001,-150 L530.6,-150 L530.6,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="530.6" y="-210" font-size="26" fill="black" dy="0em">Cas2</text>
+<path d="M586.2,-200 L675.4000000000001,-200 L705.4000000000001,-175.0 L675.4000000000001,-150 L586.2,-150 L586.2,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="586.2" y="-120" font-size="26" fill="black" dy="0em">Cas4</text>
+<path d="M746.2,-200 L850.4000000000001,-200 L850.4000000000001,-150 L746.2,-150 L716.2,-175.0 L746.2,-200 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="716.2" y="-210" font-size="26" fill="black" dy="0em">CasR</text>
+<path d="M880.8000000000001,-200 L1001.8000000000001,-200 L1001.8000000000001,-150 L880.8000000000001,-150 L850.8000000000001,-175.0 L880.8000000000001,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="850.8000000000001" y="-120" font-size="26" fill="black" dy="0em">Cas3HD</text>
+<path d="M1029.2,-200 L1339.8000000000002,-200 L1339.8000000000002,-150 L1029.2,-150 L999.2,-175.0 L1029.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="999.2" y="-210" font-size="26" fill="black" dy="0em">Cas3</text>
+<path d="M1366.6000000000001,-200 L1578.8000000000002,-200 L1578.8000000000002,-150 L1366.6000000000001,-150 L1336.6000000000001,-175.0 L1366.6000000000001,-200 Z" fill="#efc050" fill-opacity="0.3" stroke="#efc050" stroke-width="4" />
+<text x="1336.6000000000001" y="-120" font-size="26" fill="black" dy="0em">(Cas8a7)</text>
+<path d="M1610.0,-200 L1731.0,-200 L1731.0,-150 L1610.0,-150 L1580.0,-175.0 L1610.0,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1580.0" y="-210" font-size="26" fill="black" dy="0em">Cas5</text>
+<path d="M1763.2,-200 L1949.0,-200 L1949.0,-150 L1763.2,-150 L1733.2,-175.0 L1763.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1733.2" y="-120" font-size="26" fill="black" dy="0em">Cas7</text>
+<path d="M1981.0,-200 L2021.0,-200 L2021.0,-150 L1981.0,-150 L1951.0,-175.0 L1981.0,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1951.0" y="-210" font-size="26" fill="black" dy="0em">Csa5gr11</text>
+<path d="M2194.0,-200 L2325.2000000000003,-200 L2325.2000000000003,-150 L2194.0,-150 L2164.0,-175.0 L2194.0,-200 Z" fill="#dd1424" fill-opacity="0.8" stroke="#dd1424" stroke-width="4" />
+<text x="2164.0" y="-120" font-size="26" fill="black" dy="0em">Cas6</text>
+<path d="M10.2,-200 L47.6,-200 L47.6,-150 L10.2,-150 L10.2,-200 Z" fill="white" stroke="white" stroke-width="4" />
+<path d="M10.2,-200 L17.68,-200 L17.68,-150 L10.2,-150 L10.2,-200 Z" fill="black" />
+<path d="M17.68,-200 L25.16,-200 L25.16,-150 L17.68,-150 L17.68,-200 Z" fill="#f0f0f0" />
+<path d="M25.16,-200 L32.64,-200 L32.64,-150 L25.16,-150 L25.16,-200 Z" fill="black" />
+<path d="M32.64,-200 L40.12,-200 L40.12,-150 L32.64,-150 L32.64,-200 Z" fill="#f0f0f0" />
+<path d="M40.12,-200 L47.599999999999994,-200 L47.599999999999994,-150 L40.12,-150 L40.12,-200 Z" fill="black" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CRISPR</text>
+</svg>

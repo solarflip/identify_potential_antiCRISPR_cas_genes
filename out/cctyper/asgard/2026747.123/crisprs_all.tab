@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+BPTN01000268	BPTN01000268_1	3873	4051	GTTGCATTTACTAGCTTACTGATTCAT	3	27	49	100.0	53.1	0.0	True	Unknown	V-F1	0.454

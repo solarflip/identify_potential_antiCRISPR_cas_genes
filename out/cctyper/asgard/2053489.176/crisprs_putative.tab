@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAGXOA010000037	JAGXOA010000037_1	450	1531	GAAACACTCCAATTTCCTATATCTTGGTTGAA	15	32	43.0	80.8	68.8	0.0	False	Unknown	III-B	0.455

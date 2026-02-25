@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAACUZ010000057	JAACUZ010000057_1	3541	4175	ATTTCAATACCACACTGGTTCTATTCAAAC	10	30	37.2	93.1	41.4	0.6	True	Unknown	I-B	0.486

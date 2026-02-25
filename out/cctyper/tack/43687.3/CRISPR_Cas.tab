@@ -1,0 +1,3 @@
+Contig	Operon	Operon_Pos	Prediction	CRISPRs	Distances	Prediction_Cas	Prediction_CRISPRs
+CP008822	CP008822@36	[1073281, 1102120]	I-A	['CP008822_1', 'CP008822_2', 'CP008822_3']	[0, 0, 2189]	I-A	['I-A', 'I-A', 'I-A']
+CP008822	CP008822@38	[1123272, 1137585]	III-D	['CP008822_3', 'CP008822_4', 'CP008822_5']	[8618, 0, 221]	III-D	['I-A', 'Unknown', 'Unknown']

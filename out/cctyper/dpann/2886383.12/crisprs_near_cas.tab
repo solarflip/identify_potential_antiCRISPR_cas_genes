@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAWAEW010000007	JAWAEW010000007_1	48031	49687	ATTTCAATACCACAATGGTTAATTCGAGAC	26	30	35.1	100.0	41.7	0.2	True	Unknown	I-B	0.669

@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+MWMI01000002	MWMI01000002_1	40943	43955	CTTTCAATATTTCTAATTCTTCTGAAAC	44	28	41.4	100.0	44.0	0.5	True	Unknown	I-A	0.428

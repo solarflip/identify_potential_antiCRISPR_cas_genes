@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAVYMY010000014	JAVYMY010000014_2	30344	30954	GAAACAATAGAGAAAAATTGAAAG	10	24	41.2	100.0	41.7	0.6	True	I-A	I-A	0.968

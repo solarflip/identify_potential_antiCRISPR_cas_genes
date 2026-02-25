@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+RIZB01000002	RIZB01000002_1	102838	105047	GTTACAGACGAACCCTAGTCGGGTTGAAGC	34	30	36.1	97.7	46.1	0.5	True	I-B	I-B	0.983

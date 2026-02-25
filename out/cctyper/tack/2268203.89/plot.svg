@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2105" height="600" viewBox="0 -600 2105 600">
+<defs>
+</defs>
+<path d="M210,-20 L210,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-530" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-530" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-530" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-530" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-530" font-size="22" fill="grey" dy="0em">5000</text>
+<path d="M1210,-20 L1210,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="1160" y="-530" font-size="22" fill="grey" dy="0em">6000</text>
+<path d="M1410,-20 L1410,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="1360" y="-530" font-size="22" fill="grey" dy="0em">7000</text>
+<path d="M1610,-20 L1610,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="1560" y="-530" font-size="22" fill="grey" dy="0em">8000</text>
+<path d="M1810,-20 L1810,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="1760" y="-530" font-size="22" fill="grey" dy="0em">9000</text>
+<path d="M2010,-20 L2010,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="1960" y="-530" font-size="22" fill="grey" dy="0em">10000</text>
+<text x="16.0" y="-460" font-size="38" fill="black" dy="0em">III-D: JAWAVG010000017@2 (13187-20936)</text>
+<path d="M40.2,-400 L182.8,-400 L182.8,-350 L40.2,-350 L10.2,-375.0 L40.2,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-410" font-size="26" fill="black" dy="0em">Csm3gr7</text>
+<path d="M213.0,-400 L390.40000000000003,-400 L390.40000000000003,-350 L213.0,-350 L183.0,-375.0 L213.0,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="183.0" y="-320" font-size="26" fill="black" dy="0em">Csx10gr5</text>
+<path d="M408.40000000000003,-400 L510.20000000000005,-400 L510.20000000000005,-350 L408.40000000000003,-350 L378.40000000000003,-375.0 L408.40000000000003,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="378.40000000000003" y="-410" font-size="26" fill="black" dy="0em">Csm3gr7</text>
+<path d="M539.6,-400 L652.8000000000001,-400 L652.8000000000001,-350 L539.6,-350 L509.6,-375.0 L539.6,-400 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="509.6" y="-320" font-size="20" fill="black" dy="0em">17</text>
+<path d="M676.8000000000001,-400 L1107.4,-400 L1107.4,-350 L676.8000000000001,-350 L646.8000000000001,-375.0 L676.8000000000001,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="646.8000000000001" y="-410" font-size="26" fill="black" dy="0em">Cas10</text>
+<path d="M1133.6000000000001,-400 L1306.8000000000002,-400 L1306.8000000000002,-350 L1133.6000000000001,-350 L1103.6000000000001,-375.0 L1133.6000000000001,-400 Z" fill="#efc050" fill-opacity="0.3" stroke="#efc050" stroke-width="4" />
+<text x="1103.6000000000001" y="-320" font-size="26" fill="black" dy="0em">(Csm3gr7)</text>
+<path d="M1333.6000000000001,-400 L1486.4,-400 L1486.4,-350 L1333.6000000000001,-350 L1303.6000000000001,-375.0 L1333.6000000000001,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1303.6000000000001" y="-410" font-size="26" fill="black" dy="0em">Csm3gr7</text>
+<path d="M1515.8000000000002,-400 L1560.0,-400 L1560.0,-350 L1515.8000000000002,-350 L1485.8000000000002,-375.0 L1515.8000000000002,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1485.8000000000002" y="-320" font-size="26" fill="black" dy="0em">Csm3gr7</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">I-A: JAWAVG010000040@1 (1-10026)</text>
+<path d="M10.2,-200 L95.80000000000001,-200 L125.80000000000001,-175.0 L95.80000000000001,-150 L10.2,-150 L10.2,-200 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CasR</text>
+<path d="M138.6,-200 L272.8,-200 L302.8,-175.0 L272.8,-150 L138.6,-150 L138.6,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="138.6" y="-120" font-size="26" fill="black" dy="0em">Cas4</text>
+<path d="M302.8,-200 L468.20000000000005,-200 L498.20000000000005,-175.0 L468.20000000000005,-150 L302.8,-150 L302.8,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="302.8" y="-210" font-size="26" fill="black" dy="0em">Cas1</text>
+<path d="M497.6,-200 L522.6,-200 L552.6,-175.0 L522.6,-150 L497.6,-150 L497.6,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="497.6" y="-120" font-size="26" fill="black" dy="0em">Cas2</text>
+<path d="M549.4,-200 L629.6,-200 L659.6,-175.0 L629.6,-150 L549.4,-150 L549.4,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="549.4" y="-210" font-size="26" fill="black" dy="0em">Cas4</text>
+<path d="M668.8000000000001,-200 L806.0,-200 L836.0,-175.0 L806.0,-150 L668.8000000000001,-150 L668.8000000000001,-200 Z" fill="#dd1424" fill-opacity="0.8" stroke="#dd1424" stroke-width="4" />
+<text x="668.8000000000001" y="-120" font-size="26" fill="black" dy="0em">Cas6</text>
+<path d="M845.8000000000001,-200 L951.8000000000001,-200 L981.8000000000001,-175.0 L951.8000000000001,-150 L845.8000000000001,-150 L845.8000000000001,-200 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="845.8000000000001" y="-210" font-size="26" fill="black" dy="0em">CasR</text>
+<path d="M1010.2,-200 L1069.4,-200 L1099.4,-175.0 L1069.4,-150 L1010.2,-150 L1010.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1010.2" y="-120" font-size="26" fill="black" dy="0em">Csa5gr11</text>
+<path d="M1100.8,-200 L1260.2,-200 L1290.2,-175.0 L1260.2,-150 L1100.8,-150 L1100.8,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1100.8" y="-210" font-size="26" fill="black" dy="0em">Cas7</text>
+<path d="M1287.8000000000002,-200 L1423.2,-200 L1453.2,-175.0 L1423.2,-150 L1287.8000000000002,-150 L1287.8000000000002,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1287.8000000000002" y="-120" font-size="26" fill="black" dy="0em">Cas5</text>
+<path d="M1454.2,-200 L1640.6000000000001,-200 L1670.6000000000001,-175.0 L1640.6000000000001,-150 L1454.2,-150 L1454.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1454.2" y="-210" font-size="26" fill="black" dy="0em">Cas8a2</text>
+<path d="M1669.2,-200 L1985.2,-200 L2015.2,-175.0 L1985.2,-150 L1669.2,-150 L1669.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1669.2" y="-120" font-size="26" fill="black" dy="0em">Cas3</text>
+</svg>

@@ -1,0 +1,2 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+DXJN01000023	DXJN01000023@1	1630	8849	III-A	100%	NA	III-A	15.0	['Cas10_1_CAS-III', 'Csm2gr11_7_CAS-III-A', 'Csm3gr7_1_CAS-III-A-III-D', 'Csm4_0_IIIA', 'Csm5gr7_1_CAS-III-A-III-D', 'Cas6_8_CAS-I-II-III-IV-V-VI']	[1, 2, 3, 4, 5, 6]	['2.80e-136', '1.40e-20', '7.40e-70', '9.10e-45', '4.80e-30', '2.70e-20']	[0.809, 0.792, 0.832, 0.916, 0.975, 0.78]	[0.997, 0.982, 0.991, 0.94, 0.995, 0.738]	1	NA

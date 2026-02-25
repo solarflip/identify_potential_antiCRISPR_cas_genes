@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2496" height="1000" viewBox="0 -1000 2496 1000">
+<defs>
+</defs>
+<path d="M210,-20 L210,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-930" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-930" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-930" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-930" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-930" font-size="22" fill="grey" dy="0em">5000</text>
+<path d="M1210,-20 L1210,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="1160" y="-930" font-size="22" fill="grey" dy="0em">6000</text>
+<path d="M1410,-20 L1410,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="1360" y="-930" font-size="22" fill="grey" dy="0em">7000</text>
+<path d="M1610,-20 L1610,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="1560" y="-930" font-size="22" fill="grey" dy="0em">8000</text>
+<path d="M1810,-20 L1810,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="1760" y="-930" font-size="22" fill="grey" dy="0em">9000</text>
+<path d="M2010,-20 L2010,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="1960" y="-930" font-size="22" fill="grey" dy="0em">10000</text>
+<path d="M2210,-20 L2210,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="2160" y="-930" font-size="22" fill="grey" dy="0em">11000</text>
+<path d="M2410,-20 L2410,-920" stroke="grey" stroke-width="1" fill="none" />
+<text x="2360" y="-930" font-size="22" fill="grey" dy="0em">12000</text>
+<text x="16.0" y="-860" font-size="38" fill="black" dy="0em">I-A: DSGI01000090@1 (36-3927)</text>
+<path d="M40.2,-800 L90.4,-800 L90.4,-750 L40.2,-750 L10.2,-775.0 L40.2,-800 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-810" font-size="26" fill="black" dy="0em">Csa5gr11</text>
+<path d="M111.60000000000001,-800 L208.60000000000002,-800 L238.60000000000002,-775.0 L208.60000000000002,-750 L111.60000000000001,-750 L111.60000000000001,-800 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="111.60000000000001" y="-720" font-size="26" fill="black" dy="0em">CasR</text>
+<path d="M269.0,-800 L347.40000000000003,-800 L347.40000000000003,-750 L269.0,-750 L239.0,-775.0 L269.0,-800 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="239.0" y="-810" font-size="26" fill="black" dy="0em">Cas4</text>
+<path d="M373.6,-800 L410.0,-800 L410.0,-750 L373.6,-750 L343.6,-775.0 L373.6,-800 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="343.6" y="-720" font-size="26" fill="black" dy="0em">Cas2</text>
+<path d="M427.8,-800 L582.4,-800 L582.4,-750 L427.8,-750 L397.8,-775.0 L427.8,-800 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="397.8" y="-810" font-size="26" fill="black" dy="0em">Cas4</text>
+<path d="M613.4,-800 L788.4000000000001,-800 L788.4000000000001,-750 L613.4,-750 L583.4,-775.0 L613.4,-800 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="583.4" y="-720" font-size="26" fill="black" dy="0em">Cas1</text>
+<text x="16.0" y="-660" font-size="38" fill="black" dy="0em">III-B: DSGI01000084@1 (659-3315)</text>
+<path d="M10.2,-600 L168.4,-600 L198.4,-575.0 L168.4,-550 L10.2,-550 L10.2,-600 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-610" font-size="26" fill="black" dy="0em">Cmr4</text>
+<path d="M198.60000000000002,-600 L263.2,-600 L293.2,-575.0 L263.2,-550 L198.60000000000002,-550 L198.60000000000002,-600 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="198.60000000000002" y="-520" font-size="26" fill="black" dy="0em">Cmr5gr11</text>
+<path d="M293.8,-600 L511.4,-600 L541.4,-575.0 L511.4,-550 L293.8,-550 L293.8,-600 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="293.8" y="-610" font-size="26" fill="black" dy="0em">Cas10</text>
+<text x="16.0" y="-460" font-size="38" fill="black" dy="0em">III-B: DSGI01000037@1 (2-11984)</text>
+<path d="M40.2,-400 L122.2,-400 L122.2,-350 L40.2,-350 L10.2,-375.0 L40.2,-400 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="10.2" y="-410" font-size="26" fill="black" dy="0em">Csx1</text>
+<path d="M139.4,-400 L151.8,-400 L181.8,-375.0 L151.8,-350 L139.4,-350 L139.4,-400 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="139.4" y="-320" font-size="20" fill="black" dy="0em">2</text>
+<path d="M265.0,-400 L363.20000000000005,-400 L363.20000000000005,-350 L265.0,-350 L235.0,-375.0 L265.0,-400 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="235.0" y="-410" font-size="26" fill="black" dy="0em">Csx3</text>
+<path d="M399.0,-400 L617.8000000000001,-400 L617.8000000000001,-350 L399.0,-350 L369.0,-375.0 L399.0,-400 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="369.0" y="-320" font-size="20" fill="black" dy="0em">4</text>
+<path d="M653.0,-400 L843.0,-400 L843.0,-350 L653.0,-350 L623.0,-375.0 L653.0,-400 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="623.0" y="-410" font-size="20" fill="black" dy="0em">5</text>
+<path d="M930.6,-400 L1108.0,-400 L1108.0,-350 L930.6,-350 L900.6,-375.0 L930.6,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="900.6" y="-320" font-size="26" fill="black" dy="0em">Cmr3gr5</text>
+<path d="M1137.4,-400 L1734.8000000000002,-400 L1734.8000000000002,-350 L1137.4,-350 L1107.4,-375.0 L1137.4,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1107.4" y="-410" font-size="26" fill="black" dy="0em">Cas10</text>
+<path d="M1764.8000000000002,-400 L1888.8000000000002,-400 L1888.8000000000002,-350 L1764.8000000000002,-350 L1734.8000000000002,-375.0 L1764.8000000000002,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1734.8000000000002" y="-320" font-size="26" fill="black" dy="0em">Cmr6</text>
+<path d="M1918.2,-400 L2121.4,-400 L2121.4,-350 L1918.2,-350 L1888.2,-375.0 L1918.2,-400 Z" fill="#efc050" fill-opacity="0.3" stroke="#efc050" stroke-width="4" />
+<text x="1888.2" y="-410" font-size="26" fill="black" dy="0em">(Cmr1gr7)</text>
+<path d="M2152.0,-400 L2216.0,-400 L2216.0,-350 L2152.0,-350 L2122.0,-375.0 L2152.0,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="2122.0" y="-320" font-size="26" fill="black" dy="0em">Cmr5gr11</text>
+<path d="M2246.6,-400 L2406.6,-400 L2406.6,-350 L2246.6,-350 L2216.6,-375.0 L2246.6,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="2216.6" y="-410" font-size="26" fill="black" dy="0em">Cmr4</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">Ambiguous: DSGI01000096@1 (1-3482)</text>
+<path d="M10.2,-200 L313.6,-200 L343.6,-175.0 L313.6,-150 L10.2,-150 L10.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">Cas10</text>
+<path d="M343.8,-200 L502.0,-200 L532.0,-175.0 L502.0,-150 L343.8,-150 L343.8,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="343.8" y="-120" font-size="26" fill="black" dy="0em">Cmr3gr5</text>
+<path d="M533.2,-200 L676.4000000000001,-200 L706.4000000000001,-175.0 L676.4000000000001,-150 L533.2,-150 L533.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="533.2" y="-210" font-size="26" fill="black" dy="0em">Cmr1gr7</text>
+</svg>

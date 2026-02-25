@@ -1,0 +1,2 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+DALG01000019	DALG01000019@1	823	4343	V-F1	100%	100%	V-F1	10.0	['Cas12f1_1_CAS-V-F', 'Cas4_0_CAS-I-II-III-IV-V-VI', 'Cas2_2_CAS-I-II-III-IV-V-VI', 'Cas1_0_CAS-I-II-III-IV-V-VI']	[1, 2, 3, 4]	['3.30e-172', '1.30e-21', '1.30e-19', '3.00e-80']	[0.991, 0.912, 0.778, 0.963]	[0.996, 0.983, 0.962, 1.0]	-1	-1

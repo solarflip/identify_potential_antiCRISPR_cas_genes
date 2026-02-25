@@ -1,0 +1,4 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+JAACUZ010000015	JAACUZ010000015@1	10	6116	I-B	80%	0%	I-B	14.0	['Cas3_1_CAS-I', 'Cas5_7_CAS-I-B', 'Cas7_2_IB', 'Cas8b1_13_CAS-I-B']	[1, 2, 3, 4]	['1.10e-53', '3.80e-43', '3.30e-94', '4.60e-143']	[0.712, 0.688, 0.92, 0.965]	[0.784, 0.72, 0.993, 0.998]	-1	NA
+JAACUZ010000029	JAACUZ010000029@1	8	6827	I-B	80%	0%	I-B	12.0	['Cas3_1_CAS-I', 'Cas5_10_CAS-I-B', 'Cas7b_0_CAS-I-B-I-C', 'Cas8b1_13_CAS-I-B']	[1, 2, 3, 4]	['2.00e-47', '1.10e-40', '1.30e-63', '2.00e-108']	[0.775, 0.872, 0.784, 0.921]	[0.812, 0.929, 0.996, 0.998]	-1	NA
+JAACUZ010000105	JAACUZ010000105@1	218	5449	I-B	80%	0%	I-B	11.0	['Cas8b2_6_CAS-I-B', 'Cas7_0_CAS-I-B', 'Cas5_0_CAS-I', 'Cas3_0_I']	[1, 3, 4, 5]	['1.20e-102', '5.40e-53', '4.60e-21', '2.20e-80']	[0.993, 0.902, 0.572, 0.454]	[0.971, 0.931, 0.687, 0.98]	1	NA

@@ -1,0 +1,3 @@
+Contig	Operon	Operon_Pos	Prediction	CRISPRs	Distances	Prediction_Cas	Prediction_CRISPRs
+CP084166	CP084166@63	[2957965, 2970976]	I-B	['CP084166_5']	[100]	I-B	['Unknown']
+CP084166	CP084166@21	[948029, 956857]	I-B	['CP084166_2', 'CP084166_3']	[3609, 115]	I-B	['Unknown', 'Unknown']

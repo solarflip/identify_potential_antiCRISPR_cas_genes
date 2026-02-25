@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2460" height="400" viewBox="0 -400 2460 400">
+<defs>
+</defs>
+<path d="M210,-20 L210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-330" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-330" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-330" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-330" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-330" font-size="22" fill="grey" dy="0em">5000</text>
+<path d="M1210,-20 L1210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1160" y="-330" font-size="22" fill="grey" dy="0em">6000</text>
+<path d="M1410,-20 L1410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1360" y="-330" font-size="22" fill="grey" dy="0em">7000</text>
+<path d="M1610,-20 L1610,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1560" y="-330" font-size="22" fill="grey" dy="0em">8000</text>
+<path d="M1810,-20 L1810,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1760" y="-330" font-size="22" fill="grey" dy="0em">9000</text>
+<path d="M2010,-20 L2010,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1960" y="-330" font-size="22" fill="grey" dy="0em">10000</text>
+<path d="M2210,-20 L2210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="2160" y="-330" font-size="22" fill="grey" dy="0em">11000</text>
+<path d="M2410,-20 L2410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="2360" y="-330" font-size="22" fill="grey" dy="0em">12000</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">III-A: JAEXHX010000018@1 (1975-13776)</text>
+<path d="M10.2,-200 L37.599999999999994,-200 L67.6,-175.0 L37.599999999999994,-150 L10.2,-150 L10.2,-200 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CasR</text>
+<path d="M99.80000000000001,-200 L177.60000000000002,-200 L177.60000000000002,-150 L99.80000000000001,-150 L69.80000000000001,-175.0 L99.80000000000001,-200 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="69.80000000000001" y="-120" font-size="20" fill="black" dy="0em">3</text>
+<path d="M245.20000000000002,-200 L338.0,-200 L338.0,-150 L245.20000000000002,-150 L215.20000000000002,-175.0 L245.20000000000002,-200 Z" fill="#d3c9c1" fill-opacity="0.8" stroke="#d3c9c1" stroke-width="4" />
+<text x="215.20000000000002" y="-210" font-size="20" fill="black" dy="0em">4</text>
+<path d="M424.6,-200 L867.2,-200 L897.2,-175.0 L867.2,-150 L424.6,-150 L424.6,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="424.6" y="-120" font-size="26" fill="black" dy="0em">Cas10</text>
+<path d="M898.2,-200 L956.8000000000001,-200 L986.8000000000001,-175.0 L956.8000000000001,-150 L898.2,-150 L898.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="898.2" y="-210" font-size="26" fill="black" dy="0em">Csm2gr11</text>
+<path d="M991.6,-200 L1106.0,-200 L1136.0,-175.0 L1106.0,-150 L991.6,-150 L991.6,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="991.6" y="-120" font-size="26" fill="black" dy="0em">Csm3gr7</text>
+<path d="M1143.4,-200 L1304.6000000000001,-200 L1334.6000000000001,-175.0 L1304.6000000000001,-150 L1143.4,-150 L1143.4,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1143.4" y="-210" font-size="26" fill="black" dy="0em">Csm4gr5</text>
+<path d="M1334.6000000000001,-200 L1525.2,-200 L1555.2,-175.0 L1525.2,-150 L1334.6000000000001,-150 L1334.6000000000001,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="1334.6000000000001" y="-120" font-size="26" fill="black" dy="0em">Csm5gr7</text>
+<path d="M1557.4,-200 L1802.0,-200 L1832.0,-175.0 L1802.0,-150 L1557.4,-150 L1557.4,-200 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="1557.4" y="-210" font-size="26" fill="black" dy="0em">Csx1</text>
+<path d="M1834.2,-200 L1937.8000000000002,-200 L1967.8000000000002,-175.0 L1937.8000000000002,-150 L1834.2,-150 L1834.2,-200 Z" fill="#dd1424" fill-opacity="0.8" stroke="#dd1424" stroke-width="4" />
+<text x="1834.2" y="-120" font-size="26" fill="black" dy="0em">Cas6</text>
+<path d="M1970.4,-200 L1996.0,-200 L2026.0,-175.0 L1996.0,-150 L1970.4,-150 L1970.4,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="1970.4" y="-210" font-size="26" fill="black" dy="0em">Cas2</text>
+<path d="M2028.4,-200 L2199.8,-200 L2229.8,-175.0 L2199.8,-150 L2028.4,-150 L2028.4,-200 Z" fill="#5b5ea6" fill-opacity="0.8" stroke="#5b5ea6" stroke-width="4" />
+<text x="2028.4" y="-120" font-size="26" fill="black" dy="0em">Cas1</text>
+<path d="M2290.4,-200 L2370.4,-200 L2370.4,-150 L2290.4,-150 L2290.4,-200 Z" fill="white" stroke="white" stroke-width="4" />
+<path d="M2290.4,-200 L2297.6727272727276,-200 L2297.6727272727276,-150 L2290.4,-150 L2290.4,-200 Z" fill="black" />
+<path d="M2297.6727272727276,-200 L2304.945454545455,-200 L2304.945454545455,-150 L2297.6727272727276,-150 L2297.6727272727276,-200 Z" fill="#f0f0f0" />
+<path d="M2304.945454545455,-200 L2312.2181818181825,-200 L2312.2181818181825,-150 L2304.945454545455,-150 L2304.945454545455,-200 Z" fill="black" />
+<path d="M2312.2181818181825,-200 L2319.49090909091,-200 L2319.49090909091,-150 L2312.2181818181825,-150 L2312.2181818181825,-200 Z" fill="#f0f0f0" />
+<path d="M2319.49090909091,-200 L2326.7636363636375,-200 L2326.7636363636375,-150 L2319.49090909091,-150 L2319.49090909091,-200 Z" fill="black" />
+<path d="M2326.7636363636375,-200 L2334.036363636365,-200 L2334.036363636365,-150 L2326.7636363636375,-150 L2326.7636363636375,-200 Z" fill="#f0f0f0" />
+<path d="M2334.036363636365,-200 L2341.3090909090924,-200 L2341.3090909090924,-150 L2334.036363636365,-150 L2334.036363636365,-200 Z" fill="black" />
+<path d="M2341.3090909090924,-200 L2348.58181818182,-200 L2348.58181818182,-150 L2341.3090909090924,-150 L2341.3090909090924,-200 Z" fill="#f0f0f0" />
+<path d="M2348.58181818182,-200 L2355.8545454545474,-200 L2355.8545454545474,-150 L2348.58181818182,-150 L2348.58181818182,-200 Z" fill="black" />
+<path d="M2355.8545454545474,-200 L2363.127272727275,-200 L2363.127272727275,-150 L2355.8545454545474,-150 L2355.8545454545474,-200 Z" fill="#f0f0f0" />
+<path d="M2363.127272727275,-200 L2370.4000000000024,-200 L2370.4000000000024,-150 L2363.127272727275,-150 L2363.127272727275,-200 Z" fill="black" />
+<text x="2290.4" y="-210" font-size="26" fill="black" dy="0em">CRISPR</text>
+</svg>

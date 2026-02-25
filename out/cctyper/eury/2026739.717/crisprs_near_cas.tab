@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAEXHX010000018	JAEXHX010000018_1	13376	13776	ATTGCAGAAAACCATCTATTAAAATAAGGATTGTGAC	6	37	35.8	100.0	42.4	0.4	True	Unknown	III-A	0.328

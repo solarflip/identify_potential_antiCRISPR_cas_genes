@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+DSGI01000045	DSGI01000045_1	49	247	TGTTGAAGTCCTCCCTGAGCTTATT	4	25	33	80.6	57.2	4.0	False	Unknown	I-G	0.243

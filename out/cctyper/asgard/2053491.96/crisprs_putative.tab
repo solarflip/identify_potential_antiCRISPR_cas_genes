@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+CP070761	CP070761_1	497896	498252	TTGATGCTCTTTCCAGAGCTACAGTCGATGCTCCTTCTAGAGCAA	5	45	33	79.7	49.6	6.0	False	Unknown	II-C	0.419

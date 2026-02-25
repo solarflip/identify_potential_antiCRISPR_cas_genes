@@ -1,0 +1,3 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+JAVYTI010000027	JAVYTI010000027_4	68	955	GAATACAATAGAAAGAATTGAAAG	14	24	42.5	92.0	44.1	0.6	True	Unknown	I-A	0.584
+JAVYTI010000027	JAVYTI010000027_5	14538	16755	GAATACAATAGAAAGAATTGAAAG	34	24	42.5	100.0	41.3	0.3	True	Unknown	I-A	0.584
