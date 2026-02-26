@@ -1,10 +1,12 @@
 dat/2/*
 out/cctyper/asgard/*
-
 out/cctyper/tack/*
-
 out/cctyper/eury/*
-
 out/cctyper/dpann/*
 *.log
 cctyper_db/
+dat/virus_db/*
+out/blastn/asgard/*
+out/blastn/tack/*
+out/blastn/eury/*
+out/blastn/dpann/*
