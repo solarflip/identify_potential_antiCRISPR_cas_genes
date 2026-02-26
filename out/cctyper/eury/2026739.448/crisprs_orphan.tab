@@ -1,2 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-JAENYE010000004	JAENYE010000004_1	128561	128735	GTATGCGACGAACCGAAGGAACGGAGTTCGAGAAAATTG	3	39	29.0	100.0	38.1	3.0	True	Unknown	III-A	0.468

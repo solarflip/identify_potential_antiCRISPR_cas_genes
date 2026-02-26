@@ -1,3 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-JAADEF010000026	JAADEF010000026_1	64	443	GTTTTAGAATTACTAGCAAGTGTGGAAG	6	28	42.4	86.7	39.3	1.6	True	Unknown	I-B	0.378
-JAADEF010000063	JAADEF010000063_2	1	174	TCCACACTTGCTAGTAATTCTAAAAC	3	26	48.0	100.0	41.2	1.0	True	Unknown	I-B	0.495

@@ -1,2 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-JAHWIN010000085	JAHWIN010000085_1	2615	2757	GCAGACGGAACCATAACAGGCGC	3	23	37	100.0	51.0	0.0	True	Unknown	IV-A1	0.354

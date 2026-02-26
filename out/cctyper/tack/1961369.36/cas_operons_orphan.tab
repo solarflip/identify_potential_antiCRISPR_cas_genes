@@ -1,2 +1,0 @@
-Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
-JAVYTI010000048	JAVYTI010000048@1	114	6109	I-D	60%	100%	I-D	17.0	['Cas1_0_CAS-I-II-III-IV-V-VI', 'Cas4_0_I-II', 'Cas2_7_CAS-I-II-III-IV-V-VI', 'Cas3d_0_CAS-I-D', 'Csc1gr5_4_CAS-I-D', 'Csc2gr7_0_CAS-I-D']	[1, 2, 3, 4, 5, 6]	['1.90e-44', '2.90e-04', '8.80e-26', '1.40e-19', '2.30e-27', '9.10e-30']	[0.905, 0.629, 0.84, 0.491, 0.925, 0.708]	[0.991, 0.667, 0.851, 0.554, 0.965, 0.894]	-1	-1

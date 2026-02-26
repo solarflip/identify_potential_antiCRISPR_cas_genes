@@ -1,4 +1,0 @@
-Contig	Operon	Operon_Pos	Prediction	CRISPRs	Distances	Prediction_Cas	Prediction_CRISPRs
-CP035730	CP035730@6	[150801, 171963]	Hybrid(I-A,III-D)	['CP035730_3', 'CP035730_4', 'CP035730-2_12']	[286, 0, 4435]	Hybrid(I-A,III-D)	['I-A', 'I-A', 'I-A']
-CP035730	CP035730@5	[140570, 143900]	I-A	['CP035730_2', 'CP035730_3']	[229, 2159]	I-A	['I-A', 'I-A']
-CP035730	CP035730@7	[201483, 230059]	Hybrid(I-D,III-B)	['CP035730_5', 'CP035730_6', 'CP035730_7']	[2339, 0, 0]	Hybrid(I-D,III-B)	['Unknown', 'Unknown', 'Unknown']

@@ -1,3 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-MDVT01000004	MDVT01000004_3	93060	93590	CTTTCAATTCTCTTTATGAGATTC	9	24	39.4	100.0	38.9	0.4	True	Unknown	I-A	0.328
-MDVT01000006	MDVT01000006_4	55	219	GTTTCAATAGGACTAGTGTAGAATTGAAAT	3	30	37.5	100.0	36.4	2.5	True	Unknown	III-C	0.558

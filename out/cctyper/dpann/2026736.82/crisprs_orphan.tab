@@ -1,2 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-JAGGYF010000021	JAGGYF010000021_1	14	495	GTTCAAGAAACAGCCTTTATGGAGAAAGAACTGTAAC	7	37	37.2	95.7	48.2	0.4	True	Unknown	III-B	0.464

@@ -1,3 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-JAKPCO010000001	JAKPCO010000001_1	491	2238	CTTTCAGTTCCCTTTTCCTCGGGATTCGCTTTGCGAC	24	37	37.4	94.4	43.8	0.3	True	I-A	I-A	0.754
-JAKPCO010000001	JAKPCO010000001-1_4	564	2237	ctttcagttcccttttcctcgggattcgctttgcga	23	36	38.5	100.0	44.1	0.3	True	Unknown	I-A	0.541

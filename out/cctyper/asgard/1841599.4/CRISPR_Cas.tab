@@ -1,3 +1,0 @@
-Contig	Operon	Operon_Pos	Prediction	CRISPRs	Distances	Prediction_Cas	Prediction_CRISPRs
-MDVT01000001	MDVT01000001@1	[296, 10781]	I-A	['MDVT01000001_1', 'MDVT01000001_2', 'MDVT01000001-1_7']	[112, 130, 112]	I-A	['Unknown', 'Unknown', 'Unknown']
-MDVT01000006	MDVT01000006@5	[116840, 127323]	III-D	['MDVT01000006_5']	[219]	III-D	['Unknown']

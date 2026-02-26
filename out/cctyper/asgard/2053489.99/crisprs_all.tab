@@ -1,2 +1,0 @@
-Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
-DXJN01000023	DXJN01000023_1	104	1492	GTAGCAATAAGGAAATACTCAACTAGAGTTTTGAAAT	19	37	38.1	85.8	44.1	0.4	True	Unknown	III-B	0.126
