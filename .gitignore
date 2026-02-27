@@ -6,7 +6,5 @@ out/cctyper/dpann/*
 *.log
 cctyper_db/
 dat/virus_db/*
-out/blastn/asgard/*
-out/blastn/tack/*
-out/blastn/eury/*
-out/blastn/dpann/*
+out/blastn_runs/*
+out/virus_genomes/*
